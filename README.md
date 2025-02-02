@@ -3,7 +3,21 @@ Full set of lab experiences in Unity3D for the Master Course "3D Vision and Exte
 
 ## Summary
 
-This repository contains a set of lab experiences in Unity3D for the Master Course "3D Vision and Extended Reality" spanning the academic years 2020-2024. The project is organized into several folders, including scenes, scripts, prefabs, materials, and textures. Each folder serves a specific purpose, such as storing Unity scenes, C# scripts, reusable game objects, materials, and textures. To get started, clone the repository and open it in Unity. The project is licensed under the MIT License.
+This repository contains a set of lab experiences in Unity3D for the Master Course "3D Vision and Extended Reality" spanning the academic years 2020-2024. The course is divided into two parts, where Labs 1-3 are introductory experiences to Unity, and Labs 4-6 are advanced experiences in Unity.
+
+#### Basic
+- Lab1: Intro Unity and AR
+- Lab2: Physics in Unity and UI
+- Lab3: Animator Controller, Animations
+
+#### Advanced
+- Lab4: Graphics and Shaders
+- Lab5: Raycasting and Simulations
+- Lab6: MLAgents and AI
+
+Each folder is organized into several subfolders, including scenes, scripts, prefabs, materials, and textures. Each folder serves a specific purpose, such as storing Unity scenes, C# scripts, reusable game objects, materials, and textures. 
+To get started with any of the Unity projects, clone the repository and open the folder in Unity. 
+The whole project is licensed under the MIT License.
 
 ## Folder Structure
 
