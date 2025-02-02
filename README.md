@@ -57,7 +57,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/3DVisionXRLabs-Unity.git
+    git clone https://github.com/elenacamuffo/3DVisionXRLabs-Unity.git
     ```
 2. Open any project in Unity.
 3. Open any of the scenes in the `Assets/Scenes` folder to start exploring the lab experiences.
